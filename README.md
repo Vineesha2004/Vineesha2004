@@ -8,7 +8,7 @@ I'm a Frontend Developer specializing in React.js, building clean, responsive, a
 ---
 
 ### 💡 About Me
-- 🎓 B.Tech CSE (AI) Student  
+- 🎓 B.Tech CSE (AI) Graduate  
 - 💻 Focused on React.js & Frontend Development  
 - 🌱 Exploring Backend & Full Stack Development  
 - ⚡ Love building real-world projects  
